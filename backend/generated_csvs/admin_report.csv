@@ -1,0 +1,6 @@
+id,service_id,customer_id,professional_id,date_of_request,service_status,remarks,rating
+1,1,2,3,2025-04-03T00:00:00,rejected,,0
+2,1,2,3,2025-04-03T00:00:00,closed,Okay,2
+3,2,2,4,2025-04-03T00:00:00,rejected,,0
+4,2,2,4,2025-04-03T00:00:00,closed,good,3
+5,1,2,3,2025-04-04T00:00:00,open,,0
